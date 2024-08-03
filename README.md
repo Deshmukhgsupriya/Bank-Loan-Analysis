@@ -1,38 +1,32 @@
 # Bank-Loan-Analysis
  Key Performance Indicators (KPIs)
 
-### 1. Loan Application Processing Time
-- **Description**: Measures the time taken from loan application submission to approval.
-- **Key Points**:
-  - Average processing time
-  - Factors influencing processing time
-  - Improvements made to reduce processing time
+### ### Excel
+![Screenshot (371)](https://github.com/user-attachments/assets/c3ac7d3b-b422-452c-83b2-a19992aae981)
 
-### 2. Loan Approval Rate
-- **Description**: Percentage of loan applications that are approved.
-- **Key Points**:
-  - Criteria for loan approval
-  - Approval rate trends
-  - Strategies to maintain/improve approval rate
+- **Total Funded Amount:** 435M
+- **Total Loan Amount:** 446M
+- **Total Loan Applications:** 39,717
+- **Average Interest Rate:** 12.02%
+- **Year wise loan amount status, Home ownership VS late payment date status, Total Payment for verified and non-verified status, State wise loan status, Grade and sub grade wise revol_bal.**
 
-### 3. Default Rate
-- **Description**: Percentage of loans that default.
-- **Key Points**:
-  - Default rate statistics
-  - Risk factors associated with loan defaults
-  - Mitigation strategies
 
-### 4. Customer Satisfaction
-- **Description**: Measures customer satisfaction with the loan process.
-- **Key Points**:
-  - Customer feedback scores
-  - Areas of improvement based on feedback
-  - Initiatives to enhance customer satisfaction
+### Power BI
 
-### 5. Loan Portfolio Growth
-- **Description**: Tracks the growth of the loan portfolio over time.
-- **Key Points**:
-  - Monthly/Yearly growth rates
-  - Factors contributing to portfolio growth
-  - Future growth projections
+
+- **Total Loans:** 39.7K
+- **Total Funded Amount:** 446M
+- **Total Received Amount:** 483M
+- **Average Interest Rate:** 12.02%
+- **Loan status by state, Loan status by year, Home ownership VS last payment stats, Year wise loan amount stats, Grade/Sub Grade wise Revolving Balance, Verified/Non Verified status.**
+
+### Tableau
+![Uploading Screenshot (376).png…]()
+
+- **Total Accounts:** 669K
+- **Total Loan Amount:** 345M
+- **Average Interest Rate:** 11.99%
+- **Total Investment:** 353M
+- **Total Revol Amount:** 417M
+- **Grade and sub grade wise revol_bal, State wise and last_credit_pull_d wise loan status, Year wise loan amount stats, Total Payment for Verified Status VS Non-Verified Status, Home ownership VS last payment date stats.**
 
