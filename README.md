@@ -12,6 +12,8 @@
 
 
 ### Power BI
+![Screenshot (372)](https://github.com/user-attachments/assets/9b6709b5-2406-4dc0-be05-b892606d29a0)
+![Screenshot (373)](https://github.com/user-attachments/assets/85ed1f4d-111c-4c90-8ee2-eec9d76c9f68)
 
 
 - **Total Loans:** 39.7K
